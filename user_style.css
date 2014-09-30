@@ -1,7 +1,10 @@
 .loc.card {
   background: #fff;
   color: #333;
-  font: 1.5em/2.475em 'Source Code Pro', sans-serif;
+  font: 1.5em/2em 'Source Code Pro', sans-serif;
 }
 
-/* .night .loc.card {} */
+.night .loc.card {
+  background: #999;
+  color: #fc0;
+}
